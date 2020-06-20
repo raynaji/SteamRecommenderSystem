@@ -17,7 +17,8 @@ We scraped 91,925 game-related data and 1.8 million user-review data from Steam 
 1. Games that are not free.  
 2. Games that were released between 2000 - 2020.  
 3. Games that have enough reviews: without label like “without enough reviews to infer sentiment” or “no user reviews”.  
-4. Games that are under the TOP 3 popular genres: Action-Adventure, Simulation and RPG (Role-Playing games).   
+4. Games that are under the TOP 3 popular genres: Action-Adventure, Simulation and RPG (Role-Playing games).     
+
 Finally, using these 7,808 games, we scraped totally 1,817,436 reviews which involved 1,091,552 distinct users.
 
 ## Customer Segmentation Analysis
